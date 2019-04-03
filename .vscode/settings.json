@@ -1,7 +1,0 @@
-{
-  "git.ignoreLimitWarning": true,
-  "editor.tabSize": 2,
-  "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 3000,
-  "files.eol": "\r\n"
-}
