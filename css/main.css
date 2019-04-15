@@ -188,6 +188,14 @@ a {
   border-radius: 50%;
 }
 
+.slider-controls__label:hover {
+  background-color: #b2c1b7;
+}
+
+.slider-controls__label:active {
+  background-color: #ffffff;
+}
+
 #slide-1:checked ~ .site-wrapper {
   background-color: #849d8f;
   background-image: url("../img/slide-1.png");
@@ -657,6 +665,8 @@ a {
 .btn__banner {
   float: right;
 }
+
+
 
 /* .map .container {
   position: relative;
